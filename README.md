@@ -40,3 +40,7 @@ The design uses:
 - Embedded control
 - Arduino programming
 - LCD display integration
+
+## Project Files
+
+- [Parts List](parts/parts-list.md)
